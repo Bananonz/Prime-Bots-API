@@ -1,0 +1,52 @@
+{
+  "_from": "prime-bots.js",
+  "_id": "prime-bots.js@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-z9PFCkW0a152OkWNbxNmVDRJ6CMAxUycvNPswK6c+geXU0y0S4QY3cP3554onA/LCq9pd8Lx7Aw7UObnPdibFg==",
+  "_location": "/prime-bots.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "prime-bots.js",
+    "name": "prime-bots.js",
+    "escapedName": "prime-bots.js",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/prime-bots.js/-/prime-bots.js-1.0.3.tgz",
+  "_shasum": "8ed3090247dc37e5c9d54bb8904f028cdf550a7a",
+  "_spec": "prime-bots.js",
+  "_where": "C:\\Users\\Mattia\\Desktop\\PrimeBots",
+  "author": {
+    "name": "Andrea Gennaioli"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1",
+    "socket.io-client": "^3.0.3"
+  },
+  "deprecated": false,
+  "description": "The official Prime Bots API for Node.js.",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "bot",
+    "primebots",
+    "prime-bots",
+    "api"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "prime-bots.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "version": "1.0.3"
+}
